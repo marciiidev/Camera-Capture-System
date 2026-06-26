@@ -37,11 +37,14 @@ A web-based camera capture system built using **HTML, CSS, and JavaScript** that
 
 ## ⚙️ How It Works
 
-1. Open the project in a browser  
-2. Allow camera permission  
-3. The webcam stream starts automatically  
-4. Click **Capture** to take a photo  
-5. Download or save the image  
+1. Open the Camera Capture System in your browser  
+2. The system automatically detects the available webcam device  
+3. Once detected, click **Start Camera** to activate the webcam  
+4. The live camera stream will appear on the screen  
+5. Click **Capture** to take a photo from the webcam  
+6. After capturing, click the **Upload** button  
+7. The captured image will be uploaded and saved automatically inside the `uploads/` folder  
+8. You can view or reuse the uploaded images anytime from the server folder  
 
 ---
 
