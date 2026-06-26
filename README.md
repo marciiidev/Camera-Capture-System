@@ -48,10 +48,9 @@ A web-based camera capture system built using **HTML, CSS, and JavaScript** that
 ## 📁 Project Structure
 
 ```txt id="cam_tree"
-camera-capture-system/
+camera_app/
 │
-├── index.html
-├── style.css
-├── script.js
-├── screenshots/
-└── README.md
+├── Upload📁
+├── index.php
+├── Upload.php
+
