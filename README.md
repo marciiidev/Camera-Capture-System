@@ -1,6 +1,6 @@
 # 📸 Camera Capture System
 
-A web-based camera capture system built using **HTML, CSS, and JavaScript** that allows users to take photos directly from the browser using webcam access. The system uses the browser’s built-in camera API to capture and save images instantly with a simple and responsive interface.
+A web-based camera capture system built using **HTML, CSS, and JavaScript** that allows users to take photos directly from the browser using webcam access.
 
 ---
 
